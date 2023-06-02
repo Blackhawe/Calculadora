@@ -13,6 +13,7 @@
         <form method="POST" action="">
             <div class="row">
                 <h1>Calculadora Básica</h1>
+                <h2>Nuevo cambio</h2>
             </div>
             <div class="row align-items-start">
                 <div class="col">
